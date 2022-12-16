@@ -1,0 +1,5 @@
+
+                        Round 1:
+Monk 1 won a duel against monk 2 and now has power of 63!
+
+Monk 1 is the winner of the tournament!

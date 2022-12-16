@@ -1,0 +1,15 @@
+
+                        Round 1:
+Monk 3 won a duel against monk 1 and now has power of 4!
+Monk 6 won a duel against monk 4 and now has power of 10!
+Monk 7 won a duel against monk 5 and now has power of 76!
+Monk 2 now has power of 4!
+
+                        Round 2:
+Monk 6 won a duel against monk 3 and now has power of 14!
+Monk 7 won a duel against monk 2 and now has power of 80!
+
+                        Round 3:
+Monk 7 won a duel against monk 6 and now has power of 94!
+
+Monk 7 is the winner of the tournament!
